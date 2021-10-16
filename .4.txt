@@ -1,0 +1,7 @@
+ OK -Saber o numero total de professores 
+ 
+
+  OK- percorrer de 0 até o numero total  de professores 
+   OK- se o numero for 0, escrever "ZERO" na tela 
+     OK-se o numero for ìmpar , escrever "ÌMPAR" e o numero 
+     OK-se o numero for par, escrever "PAR" e o numero 
